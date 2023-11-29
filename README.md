@@ -9,8 +9,10 @@
 Every api that this app hit are from https://fakestoreapi.com
 
 -- Login --
+
 You just need to click Login button to go to the main feature.
-- Note
+ Note
+ 
     -- I already hardcode the needed payload data to login
     -- Test the validity if you want to change the payload
     -- Success and failed attempt will show toast
