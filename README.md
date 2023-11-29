@@ -16,7 +16,6 @@ Login
     -- Success and failed attempt will show toast
 
 User
-  Main Feature
     1. User Dashboard
       - Show 1-10 list user
       - Delete User
